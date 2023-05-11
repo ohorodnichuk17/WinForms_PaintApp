@@ -1,0 +1,38 @@
+D:\source\repos\WinForms8\WinFormsPaint\bin\Debug\net5.0-windows\WinFormsPaint.exe
+D:\source\repos\WinForms8\WinFormsPaint\bin\Debug\net5.0-windows\WinFormsPaint.deps.json
+D:\source\repos\WinForms8\WinFormsPaint\bin\Debug\net5.0-windows\WinFormsPaint.runtimeconfig.json
+D:\source\repos\WinForms8\WinFormsPaint\bin\Debug\net5.0-windows\WinFormsPaint.runtimeconfig.dev.json
+D:\source\repos\WinForms8\WinFormsPaint\bin\Debug\net5.0-windows\WinFormsPaint.dll
+D:\source\repos\WinForms8\WinFormsPaint\bin\Debug\net5.0-windows\WinFormsPaint.pdb
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.csproj.AssemblyReference.cache
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.Form1.resources
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.Properties.Resources.resources
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.csproj.GenerateResource.cache
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.AssemblyInfoInputs.cache
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.AssemblyInfo.cs
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.csproj.CoreCompileInputs.cache
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.dll
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\refint\WinFormsPaint.dll
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.pdb
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.genruntimeconfig.cache
+D:\source\repos\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\ref\WinFormsPaint.dll
+D:\source\Windows Forms\WinForms8\WinFormsPaint\bin\Debug\net5.0-windows\WinFormsPaint.exe
+D:\source\Windows Forms\WinForms8\WinFormsPaint\bin\Debug\net5.0-windows\WinFormsPaint.deps.json
+D:\source\Windows Forms\WinForms8\WinFormsPaint\bin\Debug\net5.0-windows\WinFormsPaint.runtimeconfig.json
+D:\source\Windows Forms\WinForms8\WinFormsPaint\bin\Debug\net5.0-windows\WinFormsPaint.runtimeconfig.dev.json
+D:\source\Windows Forms\WinForms8\WinFormsPaint\bin\Debug\net5.0-windows\WinFormsPaint.dll
+D:\source\Windows Forms\WinForms8\WinFormsPaint\bin\Debug\net5.0-windows\WinFormsPaint.pdb
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.csproj.AssemblyReference.cache
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.Form1.resources
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.Properties.Resources.resources
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.csproj.GenerateResource.cache
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.AssemblyInfoInputs.cache
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.AssemblyInfo.cs
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.csproj.CoreCompileInputs.cache
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.dll
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\refint\WinFormsPaint.dll
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.pdb
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\WinFormsPaint.genruntimeconfig.cache
+D:\source\Windows Forms\WinForms8\WinFormsPaint\obj\Debug\net5.0-windows\ref\WinFormsPaint.dll
